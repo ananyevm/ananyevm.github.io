@@ -27,7 +27,7 @@ We argue that organized religion serves as a powerful mechanism of change and su
 
 Multinational firms often shift their incomes to low-tax jurisdictions, thus robbing host states of tax revenue. I offer a new theory to explain why some firms do this while others do not. I argue that firms that are more vulnerable to government expropriation are, counterintuitively, less likely to shift income offshore, since complying fully with tax law gives the government a greater stake in their survival. Analyzing a registry-based panel data on multinational firms, their tax burdens, and a cross-sectional information of the firms’ connections to tax havens, l find that, other things equal, firms with more concentrated fixed assets are less likely to use havens. These results challenge existing theories of the political economy of development. Whereas the “Pillars of Prosperity” theory suggests that successful states simultaneously develop protection of property rights and fiscal capacity, my results show that perfect property rights protection can actually undermine the state’s ability to tax. In a world of frictionless international capital flows, some level of expropriation risk may be necessary to prevent a fiscal crisis due to evasion.
 
-#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com)) and [Yuan Tian](http://www.tianyuanecon.com/) 
+#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/))
 (Revisions requested by *Journal of Population Economics*)
 [[PDF](/assets/foxnewscovid.pdf)]
 
