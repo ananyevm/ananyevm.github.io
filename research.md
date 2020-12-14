@@ -47,21 +47,10 @@ What role do elections play in non-democracies? We propose an empirical test tha
 [[PDF](https://www.ineteconomics.org/uploads/papers/WP_97_Poyker-Ananyev.pdf)]
 
 We demonstrate that civil conflict erodes self-identification with a nation-state even among
-nonrebellious ethnic groups. We model the choice of loyalty (national or ethnic) as a coordination game with strategic complementarities and show how the instances of political instability can break up that coordination and impede nation-building. We perform difference-indifferences estimation using Afrobarometer data. Using the onset of Tuareg-led insurgency in
-Mali caused by the demise of the Libyan leader Muammar al-Gaddafi as an exogenous shock
+nonrebellious ethnic groups. We model the choice of loyalty (national or ethnic) as a coordination game with strategic complementarities and show how the instances of political instability can break up that coordination and impede nation-building. We perform difference-indifferences estimation using Afrobarometer data. Using the onset of Tuareg-led insurgency in Mali caused by the demise of the Libyan leader Muammar al-Gaddafi as an exogenous shock
 to state capacity, we find that an instance of civil conflict in a neighbouring region decreases
 residents’ national identification by 26.7 percentage-points. The effect is greater on people who
 are more exposed to local media.
-
-
-## Manuscripts in Preparation
-
-#### Estimation of Household Assets with Survey Data (with [Michael Poyker](http://www.poykerm.com/))
-Estimating material well-being of households in developing countries is as difficult as it is important for many questions in economics and political science {especially, for the theories of voting, redistribution, public opinion, "greed and grievance" in political action, and many others. This paper offers a simple two-step procedure for estimating value of household assets from survey data: on the first step, a researcher should estimate prices using the item-response model that we develop, and on the second step, calculate weighted average of assets for every household using estimated prices as weights. We show with Monte Carlo simulations that this procedure yields relatively precise estimates. Our method opens a way to innovative use of survey data for answering many substantive questions.
-
-#### Unknown Unknowns: How Uncertainty Undermines Protest in Russia (with [Samuel Greene](https://www.kcl.ac.uk/sspp/departments/kri/people/Academics/greene.aspx))
-
-What impact do unexpressed opinions have on contentious politics? In most studies of political opinions, researchers focus on the (relatively) unambiguous categories of ‘yes’ and ‘now’, ‘approve’ and ‘disapprove’, and so on; less often do researchers focus on the other option available to respondents, i.e. to express no opinion at all. In this paper, we explore the phenomenon of non-response to direct political questions in Russia. Drawing on nationally and sub-nationally representative surveys, the paper suggests that using expressed uncertainty as a way of avoiding open dissent may act more powerfully to suppress protest than actual open support for the incumbent regime. By depriving citizens of the ability to know where they stand vis-à-vis prevailing opinions in their community, the paper argues, a prevalence of unexpressed opinions in a given community may make it more difficult for disaffected citizens to make a reasoned decision about whether to protest.
 
 ## Book Chapters
 
