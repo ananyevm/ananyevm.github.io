@@ -14,8 +14,8 @@ This paper draws on a natural experiment to identify the relationship between in
 
 ## Working Papers
 
-#### Organized Religion and Origins of Norms: Evidence from Africa (with [Michael Poyker](http://www.poykerm.com))
-(Revisions requested by *Journal of Economic Behavior and Organization*)
+#### Chistian Missions and Anti-Gay Attitudes in Africa (with [Michael Poyker](http://www.poykerm.com))
+(Minor revisions requested by *Journal of Economic Behavior and Organization*)
 [[PDF](/assets/missions.pdf)]
 
 We argue that organized religion serves as a powerful mechanism of change and subsequent persistence of cultural norms. We use a geo-coded representative survey of African countries and the location of historical Christian missions to estimate a significant and economically meaningful association between proximity to historical missions and anti-gay sentiments today. Using anthropological data on pre-colonial acceptance of homosexual practices among indigenous groups, we show that the establishment of missions, while nonrandom, was exogenous to pre-existing levels of intolerance among local populations. Thus, we argue that our results are indicative of a causal effect of missionary religious conversion. Our study demonstrates that organized religion can facilitate change in norms and values.
