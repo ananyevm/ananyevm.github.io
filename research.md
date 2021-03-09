@@ -3,9 +3,9 @@ layout: page
 title: Research
 ---
 
-## Published/Accepted Papers
+## Published/Forthcoming Papers
 
-#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/))(Accepted by *Journal of Population Economics*)
+#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/)), *Journal of Population Economics*, forthcoming
 [[PDF](/assets/foxnewscovid.pdf)]
 
 We document a causal effect of conservative Fox News Channel in the United States on physical distancing during COVID-19 pandemic. We measure county-level mobility covering all U.S. states and District of Columbia produced by GPS pings to 15-1 million smartphones and zip-code-level mobility using Facebook location data. Then, using the historical position of Fox News Channel in the cable lineup as the source of exogenous variation, we show that increased exposure to Fox News led to a smaller reduction in distance traveled and smaller increase in the probability to stay home after the national emergency declaration in the United States. Our results show that slanted media can have a harmful effect on containment efforts during a pandemic by affecting people’s behaviour.
