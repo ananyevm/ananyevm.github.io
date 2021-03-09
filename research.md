@@ -5,8 +5,7 @@ title: Research
 
 ## Published/Accepted Papers
 
-#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/))
-(Accepted by *Journal of Population Economics*)
+#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/))(Accepted by *Journal of Population Economics*)
 [[PDF](/assets/foxnewscovid.pdf)]
 
 We document a causal effect of conservative Fox News Channel in the United States on physical distancing during COVID-19 pandemic. We measure county-level mobility covering all U.S. states and District of Columbia produced by GPS pings to 15-1 million smartphones and zip-code-level mobility using Facebook location data. Then, using the historical position of Fox News Channel in the cable lineup as the source of exogenous variation, we show that increased exposure to Fox News led to a smaller reduction in distance traveled and smaller increase in the probability to stay home after the national emergency declaration in the United States. Our results show that slanted media can have a harmful effect on containment efforts during a pandemic by affecting people’s behaviour.
@@ -26,8 +25,8 @@ This paper draws on a natural experiment to identify the relationship between in
 ## Policy Reports
 
 #### Measuring Individual Poverty: Correlates and Variation Over Time (with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne) and [Rajeev Samarage](https://findanexpert.unimelb.edu.au/profile/842857-rajeev-samarage))
-[[PDF] (https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0009/3560256/Breaking-Down-Barriers-Report-3-December-2020.pdf)]
-[[Breaking Down Barriers Report Series] (https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers)]
+[[PDF](https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0009/3560256/Breaking-Down-Barriers-Report-3-December-2020.pdf)]
+[[Breaking Down Barriers Report Series](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers)]
 
 ## Working Papers
 
