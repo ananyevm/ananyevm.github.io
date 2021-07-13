@@ -5,8 +5,15 @@ title: Research
 
 ## Published/Forthcoming Papers
 
-#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/)), *Journal of Population Economics*, forthcoming
-[[PDF](/assets/foxnewscovid.pdf)]
+#### Do Dictators Signal Strength with Electoral Fraud? (with [Michael Poyker](http://www.poykerm.com/)), *European Journal of Political Economy*, forthcoming
+[[Published Version](https://www.sciencedirect.com/science/article/pii/S0176268021000665)]
+[[Working Paper Version](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2712064)]
+
+What role does electoral fraud play in nondemocracies? In this paper, we offer an empirical test of a popular idea that authoritarian governments use elections to engineer overwhelming victories with electoral fraud thus deterring potential opposition from challenging the regime. Using the data from the Russian Parliamentary elections in 2011 and a regionally representative public opinion survey, we find that the geographical allocation of electoral manipulation was the opposite of what the theory would imply: more manipulation happened in the areas where the regime was more popular. We also find that higher margins of victory for a pro-regime party failed to deter subsequent mass protests. We argue that these empirical patterns could be better explained by other mechanisms, such as Bayesian persuasion, efficient allocation, and information gathering.
+
+#### The Safest Time To Fly: Pandemic Response in the Era of Fox News (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/)), *Journal of Population Economics*,  April, 2021, Pages 775-802.
+[[Published Version](https://link.springer.com/article/10.1007/s00148-021-00847-0)]
+[[Working Paper Version](/assets/foxnewscovid.pdf)]
 
 We document a causal effect of conservative Fox News Channel in the United States on physical distancing during COVID-19 pandemic. We measure county-level mobility covering all U.S. states and District of Columbia produced by GPS pings to 15-1 million smartphones and zip-code-level mobility using Facebook location data. Then, using the historical position of Fox News Channel in the cable lineup as the source of exogenous variation, we show that increased exposure to Fox News led to a smaller reduction in distance traveled and smaller increase in the probability to stay home after the national emergency declaration in the United States. Our results show that slanted media can have a harmful effect on containment efforts during a pandemic by affecting people’s behaviour.
 
@@ -14,7 +21,7 @@ We document a causal effect of conservative Fox News Channel in the United State
 [[Published Version](https://doi.org/10.1016/j.jebo.2021.02.003)]
 [[Working Paper Version](https://www.nottingham.ac.uk/research/groups/nicep/documents/working-papers/2020/nicep-2020-04.pdf)] 
 
-We argue that organized religion serves as a powerful mechanism of change and subsequent persistence of cultural norms. We use a geo-coded representative survey of African countries and the location of historical Christian missions to estimate a significant and economically meaningful association between proximity to historical missions and anti-gay sentiments today. Using anthropological data on pre-colonial acceptance of homosexual practices among indigenous groups, we show that the establishment of missions, while nonrandom, was exogenous to pre-existing levels of intolerance among local populations. Thus, we argue that our results are indicative of a causal effect of missionary religious conversion. Our study demonstrates that organized religion can facilitate change in norms and values.
+We argue that colonial Christian missions had a long-term impact on anti-gay attitudes in Africa. We use a geo-coded representative survey of African countries and the location of historical Christian missions to estimate a significant and economically meaningful association between proximity to historical missions and anti-gay sentiments today. Using anthropological data on pre-colonial acceptance of homosexual practices among indigenous groups, we show that the establishment of missions, while nonrandom, was exogenous to pre-existing same-sex patterns among indigenous population. The estimated effect is driven by persons of Christian faith and statistically indistinguishable from zero on samples of Muslims, nonbelievers, and followers of traditional indigenous religions. Thus, we argue that our results are indicative of a causal effect of missionary religious conversion to Christianity.
 
 #### Effect of Income on Trust: Evidence from the 2009 Crisis in Russia (with [Sergei Guriev](http://econ.sciences-po.fr/staff/sergei-guriev)), *The Economic Journal*, Volume 129, Issue 619, April 2019, Pages 1082–1118,
 [[Published Version](https://doi.org/10.1111/ecoj.12612)]
@@ -30,11 +37,6 @@ This paper draws on a natural experiment to identify the relationship between in
 
 ## Working Papers
 
-#### Do Dictators Signal Strength with Electoral Fraud? (with [Michael Poyker](http://www.poykerm.com/))
-(Revisions requested by *European Journal of Political Economy*)
-[[SSRN link](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2712064)]
-
-What role do elections play in non-democracies? We propose an empirical test that can distinguish between two major families of theories of authoritarian elections: that elections can be used to maintain an image of invincibility of the regime (Influence Theory), or that elections can be used to get information about the popularity of the regime (Information Theory). While those theories might not be mutually exclusive, we show that they generate different predictions about the spatial allocation of electoral manipulations. Under the Influence Theory, electoral manipulations happen in the areas where the protest sentiments are high. Under Information Acquisition theory, electoral manipulation should happen only in the places where the potential for a successful protest is low. Using the data from 2011 Parliamentary Election in Russia and a regionally representative public opinion survey conducted before the election, we find that electoral manipulations were more likely to happen in the regions where the level of protest potential is lower. When the protest potential goes up by 10 percentage points, the estimates of electoral manipulation in a subsequent election go down by a
 
 #### Political Economy of Cross-Border Income Shifting: A Protection Racket Approach 
 (Revisions requested by *Journal of Comparative Economics*)
