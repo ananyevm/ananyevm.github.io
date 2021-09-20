@@ -17,7 +17,7 @@ What role does electoral fraud play in nondemocracies? In this paper, we offer a
 
 We document a causal effect of conservative Fox News Channel in the United States on physical distancing during COVID-19 pandemic. We measure county-level mobility covering all U.S. states and District of Columbia produced by GPS pings to 15-1 million smartphones and zip-code-level mobility using Facebook location data. Then, using the historical position of Fox News Channel in the cable lineup as the source of exogenous variation, we show that increased exposure to Fox News led to a smaller reduction in distance traveled and smaller increase in the probability to stay home after the national emergency declaration in the United States. Our results show that slanted media can have a harmful effect on containment efforts during a pandemic by affecting people’s behaviour.
 
-#### Chistian Missions and Anti-Gay Attitudes in Africa (with [Michael Poyker](http://www.poykerm.com)), *Journal of Economic Behavior & Organization*, Volume 184, April 2021, Pages 359-374
+#### Christian Missions and Anti-Gay Attitudes in Africa (with [Michael Poyker](http://www.poykerm.com)), *Journal of Economic Behavior & Organization*, Volume 184, April 2021, Pages 359-374
 [[Published Version](https://doi.org/10.1016/j.jebo.2021.02.003)]
 [[Working Paper Version](https://www.nottingham.ac.uk/research/groups/nicep/documents/working-papers/2020/nicep-2020-04.pdf)] 
 
