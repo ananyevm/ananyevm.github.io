@@ -59,6 +59,10 @@ to state capacity, we find that an instance of civil conflict in a neighbouring 
 residents’ national identification by 26.7 percentage-points. The effect is greater on people who
 are more exposed to local media.
 
+## Work in Progress
+#### Prisons and Homophobia (with [Michael Poyker](http://www.poykerm.com/))
+[[Early Draft](assets/prisonhomophobia.pdf)]
+
 ## Book Chapters
 
 #### Inside the Kremlin: The Presidency and Executive Branch
