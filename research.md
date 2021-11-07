@@ -61,7 +61,7 @@ are more exposed to local media.
 
 ## Work in Progress
 #### Prisons and Homophobia (with [Michael Poyker](http://www.poykerm.com/))
-[[Early Draft](assets/prisonhomophobia.pdf)]
+[[Early Draft](assets/prisonshomophobia.pdf)]
 
 ## Book Chapters
 
