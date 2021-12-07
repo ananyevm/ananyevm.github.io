@@ -35,6 +35,12 @@ This paper draws on a natural experiment to identify the relationship between in
 [[PDF](https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0009/3560256/Breaking-Down-Barriers-Report-3-December-2020.pdf)]
 [[Breaking Down Barriers Report Series](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers)]
 
+## Invited Contributions
+
+Covid-19 and the Media (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/)), prepared for Handbook of Labor, Human Resources and Population Economics,2022
+
+[Working Paper Version](assets/mediacovid.pdf)
+
 ## Working Papers
 
 
