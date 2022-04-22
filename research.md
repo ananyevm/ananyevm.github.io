@@ -43,6 +43,15 @@ Covid-19 and the Media (with [Michael Poyker](http://www.poykerm.com) and [Yuan 
 
 ## Working Papers
 
+#### Identity and Conflict: Evidence from Tuareg Rebellion in Mali (with [Michael Poyker](http://www.poykerm.com/))
+(Revisions requested by *World Development*)
+[[PDF](assets/conflictidentity.pdf)]
+
+We demonstrate that civil conflict erodes self-identification with a nation-state even among
+nonrebellious ethnic groups. We model the choice of loyalty (national or ethnic) as a coordination game with strategic complementarities and show how the instances of political instability can break up that coordination and impede nation-building. We perform difference-indifferences estimation using Afrobarometer data. Using the onset of Tuareg-led insurgency in Mali caused by the demise of the Libyan leader Muammar al-Gaddafi as an exogenous shock
+to state capacity, we find that an instance of civil conflict in a neighbouring region decreases
+residents’ national identification by 26.7 percentage-points. The effect is greater on people who
+are more exposed to local media.
 
 #### Political Economy of Cross-Border Income Shifting: A Protection Racket Approach 
 (Revisions requested by *Journal of Comparative Economics*)
@@ -56,14 +65,6 @@ Multinational firms often shift their incomes to low-tax jurisdictions, thus rob
 We develop a theory of information flows and political regime change assuming that citizens can use new information and communication technologies (ICTs) for both the information acquisition and protest coordination. The government, in turn, can respond by using censorship in two conceptually different forms: content censorship, or obfuscation, and coordination censorship, or restricting access to ICTs used for coordination. Our theory predicts that, first, introduction of new communication technologies lowers the probability of regime survival, but this effect is weaker in economies that do not rely heavily on ICTs for production. Second, we expect less competent governments to be more likely to use coordination censorship, though this effect is weaker in economies that use ICTs extensively. Third, content censorship is used by the intermediate types of governments. Fourth, both types of censorship are less likely if the costs of protests are higher. We empirically study the patterns of occurrence of DDoS attacks and VPN usage to test the predictions of the model. We find that, consistent with the model, DDoS attacks are used more often if our proxy for regime instability is high, and this effect is stronger in economies that are less dependent on ICTs. We also find that there are fewer DDoS attacks and fewer new VPN subscribers in periods when our proxy for the cost of protests is high.
  half of their standard deviation thus corroborating Information Theory.
 
-#### Identity and Conflict: Evidence from Tuareg Rebellion in Mali (with [Michael Poyker](http://www.poykerm.com/))
-[[PDF](assets/conflictidentity.pdf)]
-
-We demonstrate that civil conflict erodes self-identification with a nation-state even among
-nonrebellious ethnic groups. We model the choice of loyalty (national or ethnic) as a coordination game with strategic complementarities and show how the instances of political instability can break up that coordination and impede nation-building. We perform difference-indifferences estimation using Afrobarometer data. Using the onset of Tuareg-led insurgency in Mali caused by the demise of the Libyan leader Muammar al-Gaddafi as an exogenous shock
-to state capacity, we find that an instance of civil conflict in a neighbouring region decreases
-residents’ national identification by 26.7 percentage-points. The effect is greater on people who
-are more exposed to local media.
 
 ## Work in Progress
 #### Prisons and Homophobia (with [Michael Poyker](http://www.poykerm.com/))
