@@ -31,7 +31,10 @@ title: Research
 
 ## Policy Reports
 
-#### Prevalence of, and Recovery from, Negative Earnings Shocks: Evidence from Three Decades of Longitudinal Tax Data(with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne), [Roger Wilkins](https://findanexpert.unimelb.edu.au/profile/143-roger-wilkins), and [Federico Zilio] (https://sites.google.com/view/ziliofederico) 
+#### Individual Earnings Changes and the Business Cycle: An Analysis of Australian Longitudinal Tax Data(with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne), [Roger Wilkins](https://findanexpert.unimelb.edu.au/profile/143-roger-wilkins), and [Federico Zilio](https://sites.google.com/view/ziliofederico)
+[[Link](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers/research-report-pages/report-7)]
+
+#### Prevalence of, and Recovery from, Negative Earnings Shocks: Evidence from Three Decades of Longitudinal Tax Data(with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne), [Roger Wilkins](https://findanexpert.unimelb.edu.au/profile/143-roger-wilkins), and [Federico Zilio](https://sites.google.com/view/ziliofederico)
 [[Link](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers/research-report-pages/report-6)]
 
 #### Measuring Individual Poverty: Correlates and Variation Over Time (with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne) and [Rajeev Samarage](https://findanexpert.unimelb.edu.au/profile/842857-rajeev-samarage))
