@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title:
 ---
 
 ## Published/Forthcoming Papers
@@ -13,7 +13,7 @@ title: Research
 [[Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0147596722000257)]
 [[Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384459)]
 
-#### Do Dictators Signal Strength with Electoral Fraud? (with [Michael Poyker](http://www.poykerm.com/)), *European Journal of Political Economy*, forthcoming
+#### Do Dictators Signal Strength with Electoral Fraud? (with [Michael Poyker](http://www.poykerm.com/)), *European Journal of Political Economy*, Volume 71, January 2022, 102075
 [[Published Version](https://www.sciencedirect.com/science/article/pii/S0176268021000665)]
 [[Working Paper Version](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2712064)]
 
@@ -37,7 +37,7 @@ title: Research
 
 ## Invited Contributions
 
-Covid-19 and the Media (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/)), prepared for Handbook of Labor, Human Resources and Population Economics, 2022
+#### Covid-19 and the Media (with [Michael Poyker](http://www.poykerm.com) and [Yuan Tian](http://www.tianyuanecon.com/)), prepared for Handbook of Labor, Human Resources and Population Economics, 2022
 
 [[Working Paper Version](assets/mediacovid.pdf)]
 
@@ -46,9 +46,12 @@ Covid-19 and the Media (with [Michael Poyker](http://www.poykerm.com) and [Yuan 
 #### Information and Communication Technologies, Protests, and Censorship (with [Dimitrios Xefteris](https://sites.google.com/site/dxefteris/), [Galina Zudenkova](http://zudenkova.vwl.uni-mannheim.de/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/))
 [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2978549)]
 
-## Work in Progress
-#### Prisons and Homophobia (with [Michael Poyker](http://www.poykerm.com/))
-[[Early Draft](assets/prisonshomophobia.pdf)]
+#### Prison Norms and Society Beyond Bars (with [Michael Poyker](http://www.poykerm.com))
+[[Working Paper](http://www.poykerm.com/uploads/9/2/4/6/92466562/prison_norms.pdf)]
+
+#### Patent Protection and Innovative Entrepreneurship (with [Natalia Lamberova](https://natalialamberova.com/))
+[[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142)]
+
 
 ## Book Chapters
 
