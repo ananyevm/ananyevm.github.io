@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Research
 ---
 
 ## Published/Forthcoming Papers
@@ -31,9 +31,12 @@ title:
 
 ## Policy Reports
 
+#### Prevalence of, and Recovery from, Negative Earnings Shocks: Evidence from Three Decades of Longitudinal Tax Data(with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne), [Roger Wilkins](https://findanexpert.unimelb.edu.au/profile/143-roger-wilkins), and [Federico Zilio] (https://sites.google.com/view/ziliofederico) 
+[[Link](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers/research-report-pages/report-6)]
+
 #### Measuring Individual Poverty: Correlates and Variation Over Time (with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne) and [Rajeev Samarage](https://findanexpert.unimelb.edu.au/profile/842857-rajeev-samarage))
-[[PDF](https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0009/3560256/Breaking-Down-Barriers-Report-3-December-2020.pdf)]
-[[Breaking Down Barriers Report Series](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers)]
+[[Link](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers/research-report-pages/report-3)]
+
 
 ## Invited Contributions
 
