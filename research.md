@@ -31,6 +31,9 @@ title: Research
 
 ## Policy Reports on Economic Disadvantage in Australia
 
+#### Shepparton: Snapshot Report (with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne) and [Rajeev Samarage](https://findanexpert.unimelb.edu.au/profile/842857-rajeev-samarage))
+[[Link](https://melbourneinstitute.unimelb.edu.au/__data/assets/pdf_file/0004/4988200/Shepparton-report-14-May-2024-Final-Submitted-Version.pdf)]
+
 #### Individual Earnings Changes and the Business Cycle: An Analysis of Australian Longitudinal Tax Data(with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne), [Roger Wilkins](https://findanexpert.unimelb.edu.au/profile/143-roger-wilkins), and [Federico Zilio](https://sites.google.com/view/ziliofederico)
 [[Link](https://melbourneinstitute.unimelb.edu.au/research/reports/breaking-down-barriers/research-report-pages/report-7)]
 
