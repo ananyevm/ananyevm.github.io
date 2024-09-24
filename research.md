@@ -52,9 +52,7 @@ title: Research
 
 ## Working Papers
 
-###
-
-#### Media Ownership and Ideological Slant: Evidence from Australian Newspaper Mergers (with [Ekaterina Volkova (https://evolkova.info/)), *Revisions requested from PLOS One*
+#### Media Ownership and Ideological Slant: Evidence from Australian Newspaper Mergers (with [Ekaterina Volkova] (https://evolkova.info/)), *Revisions requested from PLOS One*
 
 #### Absorbing Shocks by Accumulating Risk: Do Financially Stressed Households Take on Underinsurance Risk to Manage Liquidity Constraint? (with [Antonia Settle](https://scholar.google.com.au/citations?user=PXWariAAAAAJ&hl=en)), *Revisions requested from Socio-Economic Review*
 
