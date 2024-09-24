@@ -54,7 +54,7 @@ title: Research
 
 #### Media Ownership and Ideological Slant: Evidence from Australian Newspaper Mergers (with [Ekaterina Volkova](https://evolkova.info/)), *Revisions requested from PLOS One*
 
-#### Absorbing Shocks by Accumulating Risk: Do Financially Stressed Households Take on Underinsurance Risk to Manage Liquidity Constraint? (with [Antonia Settle](https://scholar.google.com.au/citations?user=PXWariAAAAAJ&hl=en)), *Revisions requested from Socio-Economic Review*
+#### Absorbing Shocks by Accumulating Risk (with [Antonia Settle](https://scholar.google.com.au/citations?user=PXWariAAAAAJ&hl=en)), *Revisions requested from Socio-Economic Review*
 
 #### Information and Communication Technologies, Protests, and Censorship (with [Dimitrios Xefteris](https://sites.google.com/site/dxefteris/), [Galina Zudenkova](http://zudenkova.vwl.uni-mannheim.de/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/))
 [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2978549)]
@@ -65,7 +65,7 @@ title: Research
 #### Patent Protection and Innovative Entrepreneurship (with [Natalia Lamberova](https://natalialamberova.com/))
 [[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142)]
 
-#### The causal effect of pet ownership on health and well-being (with [Ferdi Botha](https://findanexpert.unimelb.edu.au/profile/826294-ferdi-botha), [Natalia Lamberova](https://natalialamberova.com/), and [Kyle Peyton](https://kyle-peyton.com/))
+#### The Causal Effect of Pet Ownership on Health and Well-being (with [Ferdi Botha](https://findanexpert.unimelb.edu.au/profile/826294-ferdi-botha), [Natalia Lamberova](https://natalialamberova.com/), and [Kyle Peyton](https://kyle-peyton.com/))
 [Working paper availabe upon request]
 
 
