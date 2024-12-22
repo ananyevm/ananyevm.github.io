@@ -29,6 +29,7 @@ title: Research
 [[Published Version](https://doi.org/10.1111/ecoj.12612)]
 [[Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2542001)] 
 
+
 ## Policy Reports on Economic Disadvantage in Australia
 
 #### Shepparton: Snapshot Report (with [Abigail Payne](https://findanexpert.unimelb.edu.au/profile/140028-abigail-payne) and [Rajeev Samarage](https://findanexpert.unimelb.edu.au/profile/842857-rajeev-samarage))
